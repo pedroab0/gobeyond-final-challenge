@@ -46,7 +46,7 @@ export default function Main() {
                     );
                 })}
             </S.Slider>
-            <S.Image
+            <S.Slide
                 src={slider.replace("600", "1130x670")}
                 alt="Image sample"
             />

@@ -15,7 +15,7 @@ export const Box = styled.div`
 
         margin: 0;
         min-height: 14rem;
-        max-height: 27.3rem;
+        max-height: 20rem;
         max-width: 51rem;
 
         overflow: hidden;
@@ -23,10 +23,12 @@ export const Box = styled.div`
 
         @media (min-width: 1550px) {
             margin-top: 0;
+            max-height: 27.3rem;
         }
 
         @media (min-width: 1350px) and (max-width: 1500px) {
             font-size: 4rem;
+            max-height: 23.3rem;
         }
 
         @media (min-width: 1185px) and (max-width: 1359px) {
@@ -45,6 +47,7 @@ export const Box = styled.div`
 
     @media (max-width: 900px) {
         margin-left: 0;
+        margin-top: 0;
     }
 `;
 
@@ -102,5 +105,6 @@ export const Button = styled.a`
 
     @media (max-width: 1700px) {
         margin: 2rem 0;
+        height: 5rem;
     }
 `;

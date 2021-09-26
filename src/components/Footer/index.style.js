@@ -11,7 +11,7 @@ export const Container = styled.footer`
     @media (max-width: 1024px) {
         display: grid;
         justify-content: center;
-        padding: 4rem 0;
+        padding-top: 4rem;
         background: linear-gradient(0deg, #f4f4f4 50%, #fff 50%);
     }
 `;

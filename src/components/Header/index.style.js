@@ -21,7 +21,7 @@ export const Container = styled.header`
     }
 
     @media (max-width: 1024px) {
-        padding: 5.6rem 4rem 0 4rem;
+        padding: 3.6rem 4rem 0 4rem;
     }
 `;
 

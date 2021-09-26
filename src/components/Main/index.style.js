@@ -4,8 +4,8 @@ export const Container = styled.main`
     display: grid;
     grid-template-columns: 27% 63%;
     grid-template-areas:
-        "button image"
-        "slider image";
+        "button slide"
+        "slider slide";
     justify-content: space-between;
     background: #000;
     padding: 0 8rem;
@@ -20,13 +20,13 @@ export const Container = styled.main`
 
         grid-template-areas:
             "button"
-            "image"
+            "slide"
             "slider";
     }
 `;
 
-export const Image = styled.img`
-    grid-area: image;
+export const Slide = styled.img`
+    grid-area: slide;
 
     max-width: 100%;
     max-height: 100%;
@@ -74,6 +74,7 @@ export const Slider = styled.div`
     }
     @media (max-width: 400px) {
         padding: 1.2rem;
+        margin: 0;
     }
 `;
 
@@ -83,6 +84,7 @@ export const Thumbnail = styled.img`
     width: max-content;
     height: max-content;
     aspect-ratio: 1.7 /1;
+    border-radius: 0.4;
 
     @media (max-width: 1024px) {
         aspect-ratio: unset;
