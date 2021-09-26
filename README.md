@@ -65,7 +65,11 @@ A aplicação estará disponível no seu browser pelo endereço http://localhost
 
 O projeto é uma simples simulação de uma landing page para a CoreBiz e foi desenvolvido com CRA e Styled-Components para a construção dos componentes e [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) para o processo criativo de construção e lógica.
 
-Ele possui três componentes maiores (organismos) que são: - Header - Main - Footer
+Ele possui três componentes maiores (organismos) que são: 
+
+- Header 
+- Main 
+- Footer
 
 E cada um deles, seus organismos e átomos.
 
