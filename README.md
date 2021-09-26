@@ -71,7 +71,7 @@ Ele possui três componentes maiores (organismos) que são:
 - Main 
 - Footer
 
-E cada um deles, seus organismos e átomos.
+E cada um deles, suas moléculas e átomos.
 
 #### 📘 Documentação dos Componentes
 
