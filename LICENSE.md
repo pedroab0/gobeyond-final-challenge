@@ -1,4 +1,4 @@
-Copyright (c) 2016 Pagar.me Pagamentos S/A
+Copyright (c) 2021 Pedro Barbosa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
