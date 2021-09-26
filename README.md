@@ -79,7 +79,7 @@ Este é o componente responsável por fazer a requisição à API [JSON Placehol
 
 Veja o exemplo abaixo:
 
-```javascript-react
+```javascript
 fetch("https://jsonplaceholder.typicode.com/photos")
 .then((data) => return data.json())
 .then((data) => {setResonse(data)});
@@ -89,7 +89,7 @@ fetch("https://jsonplaceholder.typicode.com/photos")
 
 Veja o exemplo abaixo:
 
-```javascript-react
+```javascript
 {response.map((photo) => {
 	return (
 		<img src={photo.url} />
@@ -101,7 +101,7 @@ Veja o exemplo abaixo:
 
 Veja o exemplo abaixo:
 
-```javascript-react
+```javascript
 <Button title={title} />
 ```
 
