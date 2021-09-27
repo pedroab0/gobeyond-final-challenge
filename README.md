@@ -17,7 +17,7 @@
 
 <h4 align="center">🔥 Live demo in link below 🔥</h4>
 
-<div align="center"><a href="https://gobeyond-final-challenge.netlify.app/"><img src="https://img.shields.io/netlify/9519e304-7114-4e35-b27b-c7ccda566319?logo=Netlify&style=for-the-badge" alt="Live Demo Here" /> </a></div>
+<div align="center"><a href="https://gobeyond-final-challenge.netlify.app/"><img src="https://img.shields.io/netlify/9519e304-7114-4e35-b27b-c7ccda566319?logo=Netlify&style=for-the-badge" alt="Live Demo Here" /></a></div>
 
 ---
 ## 📑 Índice
@@ -223,8 +223,8 @@ Você pode visualizar o layout e os requisitos do projeto através dos links aba
      <sub><b>Pedro Barbosa</b></sub></a> <a href="https://github.com/pedrobarbosa0" title="GitHub">⚛️</a>
      <br />
 
-    <a href="(https://www.linkedin.com/in/pedro-abarbosa/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Pedro%20Barbosa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/pedro-abarbosa"></a> 
-    <a href="mailto:p.brbsa@gmail.com"><img alt="Gmail Badge" src"https://img.shields.io/badge/-p.brbsa@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:p.brbsa@gmail.com"></a> 
+    <a href="https://www.linkedin.com/in/pedro-abarbosa/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Pedro%20Barbosa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/pedro-abarbosa"/></a> 
+    <a href="mailto:p.brbsa@gmail.com"><img alt="Gmail Badge" src"https://img.shields.io/badge/-p.brbsa@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:p.brbsa@gmail.com"/></a> 
 </div>
 
   
