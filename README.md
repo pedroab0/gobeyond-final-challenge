@@ -5,7 +5,7 @@
 
 
 <div align="center">
-	  <img alt="GitHub" src="https://img.shields.io/github/license/pedrobarbosa0/gobeyond-final-		challenge?style=for-the-badge">
+	  <img alt="GitHub" src="https://img.shields.io/github/license/pedrobarbosa0/gobeyond-final-challenge?style=for-the-badge">
 	  <img alt="GitHub" src="https://img.shields.io/github/repo-size/pedrobarbosa0/gobeyond-final-challenge?style=for-the-badge">
 	  <img alt="Github" src="https://img.shields.io/github/last-commit/pedrobarbosa0/gobeyond-final-challenge?style=for-the-badge">
 	  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/pedrobarbosa0/gobeyond-final-challenge?logo=javascript&style=for-the-badge">
