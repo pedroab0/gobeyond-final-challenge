@@ -119,6 +119,25 @@ E cada um deles, seus organismos e átomos.
 
 Este é o componente responsável por fazer a requisição à API [JSON Placeholder](https://jsonplaceholder.typicode.com/) e pela renderização das imagens.
 
+Ele possui três [useState()](https://pt-br.reactjs.org/docs/hooks-reference.html#usestate)
+
+- Para receber a resposta da API
+```javascript
+const [apiData, setApiData] =  useState([]);
+```
+
+- Para "settar" a imagem dinamicamente
+```javascript
+const slider, setSlider] =  useState("");
+```
+
+- Para "settar" o título dinâmico
+```javascript
+const [title, setTitle] =  useState("");
+```
+<br/>
+
+>É usado o hook [useEffect()](https://pt-br.reactjs.org/docs/hooks-reference.html#useeffect) para chamar a função que faz a requisição para a API, sem nenhuma dependência.
 >A requisição é feita usando a função [fetch()](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch) nativa e após isso ela passa a resposta da API usando o método [.json()](https://developer.mozilla.org/en-US/docs/Web/API/Response/json) então ele "seta" os estados dos componentes através dos respectivos setters dos estados.
 
 Veja o exemplo abaixo:
