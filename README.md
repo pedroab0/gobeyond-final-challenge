@@ -113,9 +113,9 @@ Ele possui três componentes maiores (organismos) que são:
 E cada um deles, seus organismos e átomos.
 
 
-#### 📘 Documentação dos Componentes
+### 📘 Documentação dos Componentes
 
-- #### Main
+- ### Main
 
 Este é o componente responsável por fazer a requisição à API [JSON Placeholder](https://jsonplaceholder.typicode.com/) e pela renderização das imagens.
 
