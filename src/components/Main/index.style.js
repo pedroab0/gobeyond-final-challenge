@@ -75,6 +75,7 @@ export const Slider = styled.div`
     @media (max-width: 400px) {
         padding: 1.2rem;
         margin: 0;
+        justify-content: center;
     }
 `;
 
@@ -84,7 +85,6 @@ export const Thumbnail = styled.img`
     width: max-content;
     height: max-content;
     aspect-ratio: 1.7 /1;
-    border-radius: 0.4;
 
     @media (max-width: 1024px) {
         aspect-ratio: unset;

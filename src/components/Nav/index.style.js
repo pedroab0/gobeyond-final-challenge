@@ -7,13 +7,8 @@ export const Box = styled.div`
         props.clicked &&
         css`
             display: block;
-            transition: width 2s, height 4s;
             box-sizing: border-box;
             grid-area: menu;
-
-            &:active {
-                transition: width 2s, height 4s;
-            }
         `};
 
     @media (min-width: 1024px) {
