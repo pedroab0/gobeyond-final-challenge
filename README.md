@@ -165,13 +165,13 @@ Você pode visualizar o layout e os requisitos do projeto através dos links aba
 
 <p align="center">
 	<a href="https://whimsical.com/pt-corebiz-go-beyond-2021-final-challenge-XPcnF5FUkS6pFW9nveNr2h">
-	  <img alt="Acessar requisitos no whimsical" src="https://img.shields.io/badge/Acessar%20Requisitos%20-Whimsical-080eb3">
+	  <img alt="Acessar requisitos no whimsical" src="https://img.shields.io/badge/Acessar%20Requisitos%20-Whimsical-080eb3?style=for-the-badge">
 	</a>
 	<a href="https://xd.adobe.com/view/e100320d-9539-4cd9-9146-e27f75204e69-b453/grid">
-	  <img alt="Acessar layout no AdobeXd" src="https://img.shields.io/badge/Acessar%20Layout%20-AdobeXd-7c3c85">
+	  <img alt="Acessar layout no AdobeXd" src="https://img.shields.io/badge/Acessar%20Layout%20-AdobeXd-7c3c85?style=for-the-badge">
 	</a>
 	<a href="https://go-beyond-2021-final-challenge.vercel.app/">
-	  <img alt="Acessar página de exemplo na Vercel" src="https://img.shields.io/badge/Acessar%20Exemplo%20-Vercel-ffffff">
+	  <img alt="Acessar página de exemplo na Vercel" src="https://img.shields.io/badge/Acessar%20Exemplo%20-Vercel-ffffff?style=for-the-badge">
 	</a>
 </p>
 
@@ -213,7 +213,7 @@ Você pode visualizar o layout e os requisitos do projeto através dos links aba
 
 ## 🧑‍💻 Autor
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://github.com/pedrobarbosa0">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47837747?s=400&u=19b98696236746bc3e176259259591a9eb8aa3a3&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Pedro Barbosa</b></sub></a> <a href="https://github.com/pedrobarbosa0" title="GitHub">⚛️</a>
