@@ -128,7 +128,7 @@ const [apiData, setApiData] =  useState([]);
 
 - Para "settar" a imagem dinamicamente
 ```javascript
-const slider, setSlider] =  useState("");
+const [slider, setSlider] =  useState("");
 ```
 
 - Para "settar" o título dinâmico
