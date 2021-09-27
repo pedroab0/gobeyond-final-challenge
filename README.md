@@ -216,14 +216,16 @@ Você pode visualizar o layout e os requisitos do projeto através dos links aba
 
 ## 🧑‍💻 Autor
 
-<a href="https://github.com/pedrobarbosa0">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47837747?s=400&u=19b98696236746bc3e176259259591a9eb8aa3a3&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Pedro Barbosa</b></sub></a> <a href="https://github.com/pedrobarbosa0" title="GitHub">⚛️</a>
- <br />
+<div align="center">
+    <a href="https://github.com/pedrobarbosa0">
+     <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47837747?s=400&u=19b98696236746bc3e176259259591a9eb8aa3a3&v=4" width="100px;" alt=""/>
+     <br />
+     <sub><b>Pedro Barbosa</b></sub></a> <a href="https://github.com/pedrobarbosa0" title="GitHub">⚛️</a>
+     <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Barbosa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/pedro-abarbosa/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-p.brbsa@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:p.brbsa@gmail.com)](mailto:p.brbsa@gmail.com)
+    [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Barbosa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/pedro-abarbosa/)](https://www.linkedin.com/in/tgmarinho/) 
+    [![Gmail Badge](https://img.shields.io/badge/-p.brbsa@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:p.brbsa@gmail.com)](mailto:p.brbsa@gmail.com)
+</div>
 
   
 
