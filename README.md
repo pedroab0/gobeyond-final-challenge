@@ -3,9 +3,21 @@
   GoBeyond Final Challenge
 </h1>
 
+
+<div align="center">
+	  <img alt="GitHub" src="https://img.shields.io/github/license/pedrobarbosa0/gobeyond-final-		challenge?style=for-the-badge">
+	  <img alt="GitHub" src="https://img.shields.io/github/repo-size/pedrobarbosa0/gobeyond-final-challenge?style=for-the-badge">
+	  <img alt="Github" src="https://img.shields.io/github/last-commit/pedrobarbosa0/gobeyond-final-challenge?style=for-the-badge">
+	  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/pedrobarbosa0/gobeyond-final-challenge?logo=javascript&style=for-the-badge">
+	  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pedrobarbosa0/gobeyond-final-challenge?style=for-the-badge">
+</div>
+
+
 <h3 align="center">Desafio final do curso GoBeyond da CoreBiz.</h3>
 
-<div align="center"><a src="https://gobeyond-final-challenge.netlify.app/"> 🔥Live Demo Here</a></div>
+<h4 align="center">🔥 Live demo in link below 🔥</h4>
+
+<div align="center"><a href="https://gobeyond-final-challenge.netlify.app/"><img src="https://img.shields.io/netlify/9519e304-7114-4e35-b27b-c7ccda566319?logo=Netlify&style=for-the-badge" alt="Live Demo Here" /> </a></div>
 
 ---
 ## 📑 Índice
