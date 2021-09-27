@@ -207,7 +207,10 @@ Você pode visualizar o layout e os requisitos do projeto através dos links aba
 
 ## ⚡ Lighthouse Score
 
-  
+<div align="center">
+    <img alt="LighthouseScore" src="https://raw.githubusercontent.com/pedrobarbosa0/gobeyond-final-challenge/main/.github/lighthouseScore.png">
+</dv>
+ 
 ---
 
 
