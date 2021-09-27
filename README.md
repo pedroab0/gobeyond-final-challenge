@@ -142,7 +142,7 @@ const [title, setTitle] =  useState("");
 
 Veja o exemplo abaixo:
 
-```javascript-react
+```javascript
 fetch("https://jsonplaceholder.typicode.com/photos")
 .then((data) => return data.json())
 .then((data) => {setResonse(data)});
