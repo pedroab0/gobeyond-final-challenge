@@ -87,7 +87,7 @@ export const Thumbnail = styled.img`
     aspect-ratio: 1.7 /1;
 
     @media (max-width: 1024px) {
-        aspect-ratio: 1 / 1;
+        aspect-ratio: unset !important;
     }
 
     ${(props) =>
