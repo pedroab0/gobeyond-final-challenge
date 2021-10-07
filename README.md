@@ -56,7 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+Além disto, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 
 ### Iniciando  
@@ -212,7 +212,7 @@ Você pode visualizar o layout e os requisitos do projeto através dos links aba
 #### 🖥️ Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Layout Desltop" src="https://user-images.githubusercontent.com/39542011/134087688-6788812c-4b71-4148-8203-e785faf38a99.png" width="400px">
+  <img alt="Layout Desktop" src="https://user-images.githubusercontent.com/39542011/134087688-6788812c-4b71-4148-8203-e785faf38a99.png" width="400px">
 </p>
 
 #### 📱 Mobile
