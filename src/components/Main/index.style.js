@@ -72,6 +72,10 @@ export const Slider = styled.div`
         height: auto;
         justify-content: space-between;
     }
+    @media (max-width: 768px) {
+        overflow-x: scroll;
+        overflow-y: hidden;
+    }
     @media (max-width: 400px) {
         padding: 1.2rem;
         margin: 0;
